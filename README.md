@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Vyas Mokal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
+<p align="center"><i>"Programming is 10% writting code and 90% understanding why its not working"</i></p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyasmokalzz&label=Profile%20views&color=0e75b6&style=flat" alt="vyasmokalzz" /> </p>
