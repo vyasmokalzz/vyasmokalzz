@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Programmer from India</h3>
 <p align="center"><i>"Programming is 10% writting code and 90% understanding why its not working"</i></p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyasmokalzz&label=Profile%20views&color=0e75b6&style=flat" alt="vyasmokalzz" /> </p>
 
 - 🌱 I’m currently learning **Java**
@@ -16,12 +15,16 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
+****
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vyas-mokal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyas-mokal" height="30" width="40" /></a>
 <a href="https://instagram.com/vyasmokalzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vyasmokalzz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vyasmokal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vyasmokal" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,6 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vyasmokalzz&show_icons=true&locale=en" alt="vyasmokalzz" /></p>
 
+***
 
 <!--
 **vyasmokalzz/vyasmokalzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
